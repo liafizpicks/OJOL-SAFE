@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ojol_safe_bg">#F6F8FB</color>
+    <color name="ojol_safe_surface">#FFFFFF</color>
+
+    <color name="ojol_safe_primary">#111827</color>
+    <color name="ojol_safe_accent">#00BFA6</color>
+
+    <color name="ojol_safe_sos">#FF3B30</color>
+    <color name="ojol_safe_warning">#FFB020</color>
+    <color name="ojol_safe_success">#16A34A</color>
+
+    <color name="ojol_safe_text">#172033</color>
+    <color name="ojol_safe_text_secondary">#667085</color>
+
+    <color name="ojol_safe_border">#E6EAF0</color>
+
+</resources>
